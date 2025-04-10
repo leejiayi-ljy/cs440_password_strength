@@ -1,4 +1,4 @@
-Test your password strength here: [cs440-g3t1.netlify.app](cs440-g3t1.netlify.app)
+Test your password strength here: [cs440-g3t1.netlify.app](https://cs440-g3t1.netlify.app/)
 
 
 # Getting Started with Create React App
